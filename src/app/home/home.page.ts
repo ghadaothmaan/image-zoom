@@ -1,3 +1,6 @@
+// followed thi tutorial here
+// https://ionicacademy.com/ionic-4-image-gallery-zoom/
+
 import { Component } from '@angular/core';
 import { ModalController } from '@ionic/angular';
 import { ImageModalPage } from '../image-modal/image-modal.page';
